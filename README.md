@@ -1,15 +1,15 @@
 # Cancelamento de cartões de crédito - Analise de dados com Python
 
-##Objetivo: 
+## Objetivo: 
 
 A partir da coleta de dados dos clientes da empresa, buscar entender a causa e trazer algumas hipóteses para os clientes da empresa estatem cancelando o seu cartão de crédito.  
 
-##Perguntas: 
+## Perguntas: 
 
 Como saber as pessoas que têm maior tendência a cancelar o cartão? 
 O que fazer para evitar isso?  
 
-##Referências: 
+## Referências: 
 
 Base de dados com informações dos clientes, clientes atuais e clientes que cancelaram o cartão de crédito  
 
