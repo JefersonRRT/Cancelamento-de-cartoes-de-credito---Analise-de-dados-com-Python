@@ -2,7 +2,7 @@
 
 ## Objetivo: 
 
-A partir da coleta de dados dos clientes da empresa, buscar entender a causa e trazer algumas hipóteses para os clientes da empresa estatem cancelando o seu cartão de crédito.  
+A partir da coleta de dados dos clientes da empresa, buscar entender a causa e trazer algumas hipóteses para os clientes da empresa estarem cancelando o seu cartão de crédito.  
 
 ## Perguntas: 
 
